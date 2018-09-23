@@ -1,0 +1,29 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-ardrone": "^0.21.0",
+    "cylon-firmata": "^0.24.0",
+    "cylon-gpio": "^0.30.1",
+    "cylon-i2c": "^0.26.1",
+    "cylon-joystick": "^0.22.0",
+    "cylon-keyboard": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-hassett/robots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-hassett/robots/issues"
+  },
+  "homepage": "https://github.com/kyle-hassett/robots#readme"
+}
